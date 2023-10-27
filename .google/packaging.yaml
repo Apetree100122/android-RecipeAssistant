@@ -1,13 +1,44 @@
-
-# GOOGLE SAMPLE PACKAGING DATA
-#
-# This file is used by Google as part of our samples packaging process.
-# End users may safely ignore this file. It has no relevance to other systems.
----
-status:       DEPRECATED
-technologies: [Android]
-categories:   [Wearable]
-languages:    [Java]
-solutions:    [Mobile]
-github:       android-RecipeAssistant
-license: apache2
+Copyright [2023]
+[Alexanderpetree IT solutions LLC]
+Licensed under the
+Apache License
+⁸Version 2.0; you may not use
+this file except in compliance 
+with the License You may obtain a copy of the
+License at
+    <"http://www.apache.org/licenses/LICENSE-2.0>
+    
+Unless required by applicable law
+or agreed to in writing
+software distributed under the License 
+is distributed on an 
+"AS IS" 
+BASIS WITHOUT WARRANTIES OR 
+CONDITIONS OF ANY KIND
+either express or implied
+See the License for the specific
+language governing permissions
+and limitations under the License
+# GOOGLE SAMPLE
+# PACKAGING DATA
+# This file is used by
+# Google as part of our 
+# samples packaging process
+# End users may safely ignore 
+# this file
+# It has no relevance to other systems
+status:     
+"[online]
+technologies:
+"[Android]
+categories:  
+"[Wearable]
+languages:    
+"[Java]
+solutions:   
+"[Mobile]
+github:      
+"android-Recipe 
+"Assistant
+license:
+"apache 2
